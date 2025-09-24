@@ -98,9 +98,6 @@ const nextConfig = {
     return config
   },
   
-  // Output optimization
-  output: 'standalone',
-  
   // Redirects for SEO
   async redirects() {
     return [
